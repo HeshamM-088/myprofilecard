@@ -26,6 +26,8 @@ let leftTitle = document.querySelector(".title");
 let leftText = document.querySelector(".text");
 let rightNumber = document.querySelectorAll(".right .number");
 let rightTitle = document.querySelectorAll(".right .number-title");
+let socialIcons = document.querySelectorAll(".icon");
+
 
 moon.addEventListener("click", () => {
     cardBox.classList.add("dark");
