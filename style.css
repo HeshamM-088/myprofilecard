@@ -51,7 +51,7 @@ body{
     font-size: 1.5rem;
     color: #fff;
     opacity: 0.5;
-    transition: .3s;
+    transition: 0.5s;
     z-index: 3;
     text-decoration: none;
 }
@@ -75,6 +75,8 @@ body{
     position: absolute;
     top: 0;
     right: 0;
+    background-color: transparent;
+
 }
 
 .mail:hover{
